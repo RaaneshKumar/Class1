@@ -1,10 +1,11 @@
 ﻿namespace Workshop
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello");
-        }
-    }
+   internal class Program
+   {
+      static void Main (string[] args)
+      {
+         Console.WriteLine ("Hello");
+         Console.WriteLine ("World");
+      }
+   }
 }
